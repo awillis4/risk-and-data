@@ -1,0 +1,820 @@
+A.Willis P.Paulino Mercy College Math 352 Spring 18.
+
+Hi All,
+
+For HW 2 please attempt the following questions from the textbook. It will be due on 1/31.
+
+
+Page 150: 5.4
+
+Page 151: 5.8(a)(b), 5.9(a)(b)(c), 5.11
+
+Page 186: 6.11(a)(b), 6.12(a)(b)(c), 6.13(a)(b)(c)
+
+
+Kind Regards,
+
+Professor Paolino
+
+5.4 In a certain city district the need for money to
+buy drugs is stated as the: reason for 75% of all thefts.
+Find the probability that among the next 5 theft cases
+reported in this district,
+
+(3/4)(x+5)
+
+(a) exactly 2 resulted from the need for money to buy
+drugs;
+
+(3/4)(3/4)=(9/16)%
+
+(b) at most 3 resulted from the need for money to buy
+drugs.
+
+at most (3/4)(3/4)(3/4)=(27/64)% chance at most.
+
+This question is FULL of logical and ethical fallacies.
+
+I would need at least 30 people to tell me truthfully why they did these things,
+
+tolerance level measurements and continous neural enzyme concentration measurements,
+
+that still wont tell me why the next thefts would happen, therefore, it is not a fact that 
+
+75% of thefts happen because of this reason. this is a gross miscalculation, and people who think
+
+in this way are a danger to themselves and to others.
+
+5.8 According to a study published by a group of University of Massachusetts sociologists, about 60% 
+of the Valium users in the state of Massachusetts first took Valium for psychological problems. Find 
+the probability that among the next 8 users interviewed from this state,
+
+(a) exactly 3 began taking Valium for psychological problems;
+
+3*60/80=22.5%
+
+(b) at least 5 began taking Valium for problems that were not psychological.
+
+5*40/80=25%
+
+5.9 In testing a certain kind of truck tire over a rugged terrain, it is found that 25% of these
+trucks fail to complete the test run without a blowout. Of the next 15 trucks tested, find the 
+probability that:
+
+(a) from 3 to 6 have blowouts;
+
+3(.25)/15=.25/5=5 and 10 % probability.
+
+(b) fewer than 4 have blowouts:
+
+4(.25)/15= 1/15 % or less.
+
+(c) more than 5 have blowouts.
+
+5(.25)/15=1.25/15 % or more.
+
+5.11 The probability that a patient recovers from a delicate heart operation is 0.9. 
+What is the probability that exactly 5 of the next 7 patients having this operation survive?
+
+5(.9)/7=4.5/7 % chance, but chance is never an exact or exacting measure.
+
+6.11 A lawyer commutes daily from his suburban home to his midtown office. The average time for a
+one-way trip is 24 minutes, with a standard deviation of 3.8 minutes. Assume the distribution of 
+trip times to be normally distributed.
+
+(a) What is the probability that a trip will take at least 1/2 hour?
+
+t[(24-30)/3.8]=t(-3/1.9)=t(-1.5789)= ~46%
+
+(b) If the office opens at 9:00 A.M. and he leaves his house at 8:45 A.M. daily, what percentage of 
+the time is he late for work?
+
+t[(24-15)/3.8]=t[9/3.8]=t(2.3684)=~30.5%
+
+(c) If he leaves the house at 8:35 A.M. and coffee is served at the office from 8:50 A.M. until 9:00
+A.M., what is the probability that he misses coffee?
+
+|t[(24-15)/3.8]-t[(24-25)/3.8]=~30.5%-t(.26)=~30% of the time.
+
+(d) Find the length of time above which we find the slowest 15% of the trips.
+
+t(.15)~5.15, 5.15+24=29.15 minutes
+
+(e) Find the probability that 2 of the next 3 trips will take at least 1/2 hour.
+
+2(46)/3=92/3=30.6...%
+
+6.12 In the November 1990 issue of Chemical Engineering Progress, a study discussed the percent 
+purity of oxygen from a certain supplier. Assume that the mean was 99.61 with a standard deviation 
+of 0.08. Assume that the distribution of percent purity was approximately normal.
+
+(a) What percentage of the purity values would you expect to be between 99.5 and 99.7?
+
+t[(99.61-99.7)/.08]-t[(99.61-99.5)/.08]=t(90/8)-t(110/8)=t(11.25)-t(13.75)=.697-.694=.3%.
+
+(b) What purity value would you expect to exceed exactly 5% of the population?
+
+(8*.08)+99.61=100.25
+
+6.13 The average life of a certain type of small motor is 10 years with a standard deviation of 2 
+years. The manufacturer replaces free all motors that fail while under guarantee. If he is willing 
+to replace only 3% of the motors that fail, how long a guarantee should he offer? Assume that the 
+lifetime of a motor follows a normal distribution.
+
+t[(10-p)/2]=3. p(3)=6.01. (6.01*2)+10=22.02 years (20 m.b. guarantee).
+
+Hi All,
+
+For homework 3 please attempt the following questions from the textbook. It will be due on 2/7.
+
+Page 242: 8.22, 8.25(a), 8.26
+
+Page 282: 9.2, 9.3
+
+Page 283: 9.5(a), 9.6, 9.7, 9.12, 9.13
+
+Regards,
+
+Professor Paolino
+
+8.22 The heights of 1000 students are approximately normally distributed with a mean of 174.5 cm
+and a standard deviation of 6.9 cm. Suppose 200 random samples of size 25 are drawn from this group
+and the means recorded to ~.1cm. Determine
+
+(a) the mean and standard deviation of the sampling distribution of X ¯;
+
+The means should be the same if the sum of 25*200=1000, then z[(174.5-u)*(10rad10/6.9)]=p.
+
+(b) the number of sample means that fall between 172.5 and 175.8 centimeters inclusive;
+
+p should be # u at the center of b, 1-(z[(174.5-175.8)*(10rad10/6.9)]-z[(174.5-172.5)*(10rad10/6.9)])
+
+=1-z[-5.9579-9.166=15.1239] ~ 100% or all sample means.
+
+(c) the number of sample means falling below 172.0 centimeters.
+
+p<z[(174.5-172.5)(rad1000/6.9)]~11.4575 or 0% of sample means.
+
+8.25 The average life of a bread-making machine is 7 years, with a standard deviation of 1 year. 
+Assuming that the lives of these machines follow approximately a normal distribution, find
+
+(a) the probability that the mean life of a random sample of 9 such machines falls between 6.4 and 
+7.2 years;
+
+z[(7-7.2)(3)]-z[(7-6.4)(3)]=z[-.6]-z[1.8]=.7257-.0359=.6898 or ~ 69%.
+
+(b) the value of x to the right of which 15% of the means computed from random samples of size 9
+would fall.
+
+z[~.0015]~2.96 or 2.97. (7-u)(3)=2.96, 7-u~.99, -u~.99-7, u~6.
+
+8.26 The amount of time that a drive-through bank teller spends on a customer is a random variable 
+with a mean μ = 3.2 minutes and a standard deviation σ = 1.6 minutes. If a random sample of 64 
+customers is observed, find the probability that their mean time at the teller’s window is
+
+(a) at most 2.7 minutes;
+
+z[(3.2-2.7)(8/1.6)]=z[2.5] or 99.38%, tellers may always spend more time than this.
+
+(b) more than 3.5 minutes;
+
+z[(3.2-3.5)(8/1.6)]=z[-1.5] or 6.68%, tellers may never spend this much time.
+
+(c) at least 3.2 minutes but less than 3.4 minutes
+
+z[(3.2-3.4)(8/1.6)]-z[(3.2-3.2)(8/1.6)]=z[-1]-z[0]=|.1587-.5|~.3453 or for about half the time.
+
+9.2 An electrical firm manufactures light bulbs that have a length of life that is approximately 
+normally distributed with a standard deviation of 40 hours. If a sample of 30 bulbs has an average 
+life of 780 hours, find a 96% confidence interval for the population mean of all bulbs produced by 
+this firm.
+
+z[(780-u1)(rad30/40)]-z[(780-u2)(rad30/40)]~.96 or z[1.75].
+
+(780-u3)(.136931)=1.75, 780-u3=5.477, u3=774.5 hours.
+
+780-774.5=5.5, .96c=|782.25-777.75|.
+
+9.3 Many cardiac patients wear an implanted pacemaker to control their heartbeat. A plastic 
+connector module mounts on the top of the pacemaker. Assuming a standard deviation of 0.0015 inch 
+and an approximately normal distribution, find a 95% confidence interval for the mean of the depths 
+of all connector modules made by a certain manufacturing company. A random sample of 75 modules has 
+an average depth of 0.310 inch.
+
+z[(.310-u)(rad75/.0015)]~z[1.65]. .31-u=.0003, u=.3097.
+
+.310-.3097=.0003, .95c=|.31015-.30085|.
+
+9.5 A random sample of 100 automobile owners in the state of Virginia shows that an automobile is 
+driven on average 23,500 kilometers per year with a standard deviation of 3900 kilometers. Assume 
+the distribution of measurements to be approximately normal.
+
+(a) Construct a 99% confidence interval for the average number of kilometers an automobile is 
+driven annually in Virginia.
+
+z[2.33]=z[(23500-u3)(10/3900)]. 2.33=(23500-u3)(10/3900), 2.33/(10/3900)=2.33/.0025641=908.73635.
+
+c(.95)~|23500+-464.37|
+
+(b) What can we assert with 99% confidence about the possible size of our error if we estimate the 
+average number of kilometers driven by car owners in Virginia to be 23,500 kilometers per year?
+
+we will be within 99%t*464.367675km.
+
+9.6 How large a sample is needed in Exercise 9.2 if we wish to be 96% confident that our sample mean
+will be within 10 hours of the true mean?
+
+We will need at least 30 light bulbs.
+
+n=(z(a/2)/2e)^2
+
+(2.05/2*.01)^2= at least 106 light bulbs
+
+9.7 How large a sample is needed in Exercise 9.3 if we wish to be 95% confident that our sample mean
+will be within 0.0005 inch of the true mean?
+
+We need at least 30 pace makers.
+
+(1.96/2*.0005)=1.96/.001=at least 1960 pace makers
+
+9.12 A random sample of 10 chocolate energy bars of a certain brand has, on average, 230 calories 
+per bar, with a standard deviation of 15 calories. Construct a 99% confidence interval for the true 
+mean calorie content of this brand of energy bar. Assume that the distribution of the calorie 
+content is approximately normal.
+
+t[3.169]=t[(230-u3)(rad10/15)],(230-u3)=3.169/.211=15.02, u3=214.98. t(.99)=|230+-7.51|
+
+9.13 A random sample of 12 shearing pins is taken in a study of the Rockwell hardness of the pin 
+head. Measurements on the Rockwell hardness are made for each of the 12, yielding an average value 
+of 48.50 with a sample standard deviation of 1.5. Assuming the measurements to be normally 
+distributed, construct a 90% confidence interval for the mean Rockwell hardness.
+
+t[1.782]=t[(48.5-u3)(rad12/1.5)]. 1.782/2.31=.77=48.5-u3. 48.5-.77=47.73=u3, t(.90)=|48.5+-.385|.
+
+Hi All,
+
+Hi All,
+
+For homework 4 please attempt the following questions from the textbook. It will be due on 2/21.
+
+Page 302: 9.51, 9.52, 9.54
+
+Page 307: 9.71, 9.72, 9.75
+
+Regards,
+
+Professor Paolino
+
+9.51 In a random sample of 1000 homes in a certain
+city, it is found that 228 are heated by oil. Find 99%
+confidence intervals for the proportion of homes in this
+city that are heated by oil using both methods pre
+sented on page 297.
+
+(2.56)^2 / 4(.288)^2 = 6.5536/.331776=19.7531
+288+-19.7531~(267,308)
+
+9.52 Compute 95% confidence intervals, using both
+methods on page 297, for the proportion of defective
+items in a process when it is found that a sample of
+size 100 yields 8 defectives.
+
+(1.96)^2 / 4(.08)^2 = 3.8416/.0256 = 73.034
+73+-8~(65,81)
+
+
+9.53 (a) A random sample of 200 voters in a town is
+selected, and 114 are found to support an annexa
+tion suit. Find the 96% confidence interval for the
+fraction of the voting population favoring the suit.
+
+(2.88)^2 / 4(57/100)^2 = 8.2944/1.2996 = 6.3823
+114+-6.3823~(107,121)
+
+(b) What can we assert with 96% confidence about the
+possible size of our error if we estimate the fraction
+of voters favoring the annexation suit to be 0.57?
+
+We can assume with 96% statistical confidence interval that 
+The # people favoring this vote is 107 to 121 / 200. 
+
+9.54 A manufacturer of MP3 players conducts a set
+of comprehensive tests on the electrical functions of its
+product. All MP3 players must pass all tests prior to
+being sold. Of a random sample of 500 MP3 players, 15
+failed one or more tests. Find a 90% confidence interval
+for the proportion of MP3 players from the population
+that pass all tests.
+
+(1.65)^2 / 4(.03)^2 = 2.7725/.0036,
+But since the # failures <30, the results will be 
+Statistically insignificant without t score.
+(1.341)^2 / .0036 = 1.7983/.0036 = 499.5225.
+
+
+9.71 A manufacturer of car batteries claims that the
+batteries will last, on average, 3 years with a variance
+of 1 year. If 5 of these batteries have lifetimes of 1.9,
+2.4, 3.0, 3.5, and 4.2 years, construct a 95% confidence
+interval for Ïƒ2 and decide if the manufacturerâ€™s claim
+that Ïƒ2 = 1 is valid. Assume the population of battery
+lives to be approximately normally distributed.
+
+Mean lifetime = 3y, lvar= (5.39+3.24+0+3.25+8.64)/5=4.104y.
+(1.88)^2 / 4(4.104/3)^2 = 3.5344/7.4957 =.472.
+
+Cannot calculate, total population was not given. 
+(z=(3-3)*rad5/4.104=11%).
+
+
+9.72 A random sample of 20 students yielded a mean
+of Â¯ x = 72 and a variance of s2 = 16 for scores on a
+college placement test in mathematics. Assuming the
+scores to be normally distributed, construct a 98% con
+fidence interval for Ïƒ2.
+
+2.583^2=6.672 6.672=(72-u3)rad20/16=(72-u3)/.28.
+6.672*.28=1.868. |- 72+-1.868~(70,74).
+
+9.73 Construct a 95% confidence interval for Ïƒ2 in
+Exercise 9.9 on page 283.
+
+9.74 Construct a 99% confidence interval for Ïƒ2 in
+Exercise 9.11 on page 283.
+
+9.75 Construct a 99% confidence interval for Ïƒ in Ex
+ercise 9.12 on page 283.
+
+Hi All,
+
+For homework 5 please attempt the following questions from the textbook. It will be due on 2/28.
+
+Page 294: 9.36, 9.38, 9.39, 9.41
+
+9.36 Two kinds of thread are being compared for strength. Fifty pieces of each type of thread are 
+tested under similar conditions. Brand A has an average tensile strength of 78.3 kilograms with a 
+standard deviation of 5.6 kilograms, while brand B has an average tensile strength of 87.2 kilograms 
+with a standard deviation of 6.3 kilograms. Construct a 95% confidence interval for the difference 
+of the population means.
+
+(rad50)(78.3-u1)/5.6=(rad50)(87.2-u2)/6.3=1.65
+78.3-u1=1.3067, u1=76.99.
+u2=85.73, 85.73-76.99=8.74
+
+9.38 Two catalysts in a batch chemical process are being compared for their effect on the output of
+the process reaction. A sample of 12 batches was prepared using catalyst 1, and a sample of 10 
+batches was prepared using catalyst 2. The 12 batches for which catalyst 1 was used in the reaction 
+gave an average yield of 85 with a sample standard deviation of 4, and the 10 batches for which 
+catalyst 2 was used gave an average yield of 81 and a sample standard deviation of 5.
+Find a 90% confidence interval for the difference between the population means, assuming that the 
+populations are approximately normally distributed with equal variances.
+
+85-u1=1.574, 81-u2=2.21
+U1=83.426, u2=78.791,
+83.426-78.79=4.635
+
+9.39 Students may choose between a 3-semester-hour physics course without labs and a 4-semester-hour
+course with labs. The final written examination is the same for each section. If 12 students in the 
+section with labs made an average grade of 84 with a standard deviation of 4, and 18 students in the 
+section without labs made an average grade of 77 with a standard deviation of 6, find a 99% 
+confidence interval for the difference between the average grades for the two courses. Assume the 
+populations to be approximately normally distributed with equal variances.
+
+84-u1=3.438, 77-u2=3.63
+U1=80.562, u2=73.37.
+Ui-u2=7.92.
+
+[s(p)]^2 = [(n1-1)(s1)^2 + (n2-1)(s2)^2]/(n1+n2-2)
+|x1-x2|+t(n1+n2-2;a/2)*s(p)*(1/n1 + 1/n2)= ans.
+
+9.41 The following data represent the length of time, in days, to recovery for patients randomly 
+treated with one of two medications to clear up severe bladder infections:
+Medication 1 Medication 2
+n1 = 14 n2 = 16
+x ¯1 = 17 ¯ x2 = 19
+s2 1 = 1.5 s2 2 = 1.8
+Find a 99% confidence interval for the difference μ2−μ1
+in the mean recovery times for the two medications, assuming normal populations with equal variance.
+
+(13(2.25)+15(3.24))/28=2.78
+2+2.763(2.78(.134))^(1/2) ~ 3.684
+17+-3.6864~(13.3136,20.6864)
+19+-3.6864~(15.3136,22.6864)
+
+Page 295: 9.43, 9.44
+
+9.43 A taxi company is trying to decide whether to purchase brand A or brand B tires for its fleet 
+of taxis. To estimate the difference in the two brands, an experiment is conducted using 12 of each 
+brand. The tires are run until they wear out. The results are
+A:x1 = 36, 300km, s1 = 5Mm. B:x2 = 38, 100 km, s2 = 6.1Mm.
+Compute a 95% confidence interval for μA − μB assuming the populations to be approximately normally
+distributed. You may not assume that the variances are equal.
+
+(11(25)+11(37.21))/22=31.105
+1800+2.074(31.105(.167))^(1/2)=1804.727
+36300+-1804.727~(34495.273,381044.727)
+38100+-ans1~(36295.273,39904.727)
+
+9.44 Referring to Exercise 9.43, find a 99% confidence interval for μ1 − μ2 if tires of the two 
+brands are assigned at random to the left and right rear wheels of 8 taxis and the following 
+distances, in kilometers, are recorded: Distances are distributed normally
+
+Taxi Brand A Brand B
+1 34,400 36,700
+2 45,500 46,800
+3 36,700 37,700
+4 32,000 31,100
+5 48,400 47,800
+6 32,800 36,400
+7 38,100 38,900
+8 30,100 31,500
+
+n     8       8
+x 37,250 38362.5
+s 6123.39 4957.739
+c .995/7  3.499
+
+rad((7*37.49591 +7*24.579)/14)=5.57
+1.1125+(5.557)(3.499)(.5)=10.8344715
+range of .99c = 37.25-10.8344715, 38.3625+10.8344715
+= |26.4155, 49.1969715|.
+
+Page 313: 9.92
+9.92 A study was undertaken at Virginia Tech to determine if fire can be used as a viable management
+tool to increase the amount of forage available to deer during the critical months in late winter 
+and early spring. Calcium is a required element for plants and animals. The amount taken up and 
+stored in plants is closely correlated to the amount present in the soil. It was hypothesized that a
+fire may change the calcium levels present in the soil and thus affect the amount available to deer.
+A large tract of land in the Fishburn Forest was selected for a prescribed burn. Soil samples were 
+taken from 12 plots of equal area just prior to the burn and analyzed for calcium. Postburn calcium 
+levels were analyzed from the same plots. These values, in kilograms per plot, are presented in the 
+following table:
+Plot Preburn Postburn
+1     50       9
+2     50      18
+3     82      45
+4     64      18
+5     82      18
+6     73       9
+7     77      32
+8     54       9
+9     23      18
+10    45       9
+11    36       9
+12    54       9
+Construct a 95% confidence interval for the mean difference in calcium levels in the soil prior to 
+and after the prescribed burn. Assume the distribution of differences in calcium levels as normal.
+Regards, Professor Paolino.
+
+((8.4)^2 + (10.789)^2)/2=93.48.
+40.6+2.201(93.48(.408))^(1/2)=54.2
+40.6-eq2=27.
+U=|27-54.2|=27.2
+
+Hi all,
+
+Please attempt the following questions for HW 6. It will be due on 3/14.
+
+Page 303: 9.65, 9.67, 9.69
+
+9.65 A certain geneticist is interested in the proportion of males and females in the population who
+have a minor blood disorder. In a random sample of 1000 males, 250 are found to be afflicted, 
+whereas 275 of 1000 females tested appear to have the disorder. Compute a 95% confidence interval 
+for the difference between the proportions of males and females who have the blood disorder.
+
+Instance: (p1-p2)+-z(a/2)rad[p1(1-p1)/n1 + p2(1-p2)/n2]; p=x/n
+
+(275-250)/1000=.275-.25=.025=p1-p2    ;    z(a/2)=z(97.5)=1.96
+.025+-(1.96)rad[275(725)/1000 + 250(750)/1000]
+.025+-(1.96)rad(199.375+187.5(=386.875))
+.025+-(1.96)(19.669)=.025+-38.551511,         ci=|38.5265,39.0265|
+
+9.67 A clinical trial was conducted to determine if a certain type of inoculation has an effect on 
+the incidence of a certain disease. A sample of 1000 rats was kept in a controlled environment for a
+period of 1 year, and 500 of the rats were given the inoculation. In the group not inoculated, there
+were 120 incidences of the disease, while 98 of the rats in the inoculated group contracted it. If 
+p1 is the probability of incidence of the disease in uninoculated rats and p2 the probability of 
+incidence in inoculated rats, compute a 90% confidence interval for p1 − p2.
+
+(120-98)/500=22/500=.22/5=.044
+.044+-(1.28)rad[115.2+78.792]
+.044+-(1.64)(13.928)=.044+-22.842, ci=|22.798,22.886|
+
+9.69 A survey of 1000 students found that 274 chose professional baseball team A as their favorite 
+team. In a similar survey involving 760 students, 240 of them chose team A as their favorite. 
+Compute a 95% confidence interval for the difference between the proportions of students favoring 
+team A in the two surveys. Is there a significant difference?
+
+.31579-.274=.04179
+.04179+-(1.64)rad[164.21+198.924(=363.14)]
+.04179+-(1.96)(19.056)=.04179+-37.35,       ci=|37.308,31.39155|
+
+Page 307: 9.77, 9.78, 9.79
+
+9.77 Construct a 98% confidence interval for σ1/σ2 in Exercise 9.42 on page 295, where σ1 and σ2 are
+respectively, the standard deviations for the distances traveled per liter of fuel by the Volkswagen
+and Toyota mini-trucks.
+
+Instance: [(s1/s2)^2][F(a/2)(n(1,2)-1)]^(+-)
+
+.8^2=.64, F(.01,11,9)=4.63, 1/4.63=.216.
+.64(4.63)=2.9632, .64(.216)=.13824
+
+9.78 Construct a 90% confidence interval for σ1 2/σ2 2 in Exercise 9.43 on page 295. Were we just in
+assuming that σ1 2 = σ2 2 when we constructed the confidence interval for μ1 − μ2?
+
+(50/61)^2=.67186, F(.05,11,11)+=2.875, F-=.347826
+.67186(2.875)=1.9316, .67186(.347826)=.23369
+
+Yes, the sigmas seem very close to each other.
+
+9.79 Construct a 90% confidence interval for σ1 2/σ2 2 in Exercise 9.46 on page 295. Should we have 
+assumed σ1 2 = σ2 2 in constructing our confidence interval for μI − μII?
+
+(61.04/887.91857)^2=.0687, F(.05,4,6)=6.16, 1/6.16=.16(233766...)
+.0687(6.16)=.423192, .0687(.16)=.010992
+
+No, the deviations turned out to be very different.
+
+Sincerely,
+
+Professor Paolino
+
+Hi all, 
+Please attempt the following questions for HW 7. It will be due on 4/11.
+Page 356: 10.19, 10.20, 10.21, 10.22, 10.25, 10.26
+
+19. In a research report, Richard H. Weindruch of the UCLA Medical School claims that mice with an
+average life span of 32 months will live to be about 40 months old when 40% of the calories in their
+diet are replaced by vitamins and protein. Is there any reason to believe that μ < 40 if 64 mice 
+that are placed on this diet have an average life of 38 months with a standard deviation of 5.8 
+months? Use a P-value in your conclusion.
+
+(38-40)(8)/5.8=-16/5.8=2.758261; (38-32)(8)/5.8=48/5.8=8.25762
+8.25762-2.758261=5.499241. 
+z(2.75)=99.7%, 99.7>40, so is very likely.
+
+20. A random sample of 64 bags of white cheddar popcorn weighed, on average, 5.23 ounces with a
+standard deviation of 0.24 ounce. Test the hypothesis that μ = 5.5 ounces against the alternative
+hypothesis, μ < 5.5 ounces, at the 0.05 level of significance.
+
+(5.5-5.23)(8)/.24=9. z(-1.64)=.0505. t(60,.05)=1.671. 71>64, u<=5.5 ounces.
+
+21. An electrical firm manufactures light bulbs that have a lifetime that is approximately normally
+distributed with a mean of 800 hours and a standard deviation of 40 hours. Test the hypothesis that 
+μ = 800 hours against the alternative, μ = 800 hours, if a random sample of 30 bulbs has an 
+average life of 788 hours. Use a P-value in your answer.
+
+(800-788)(5.47226)/40=1.641678. z(1.64)=.9495. u is very close to 800 hours.
+
+22. In the American Heart Association journal Hypertension, researchers report that individuals who
+practice Transcendental Meditation (TM) lower their blood pressure significantly. If a random sample
+of 225 male TM practitioners meditate for 8.5 hours per week with a standard deviation of 2.25 
+hours, does that suggest that, on average, men who use TM meditate more than 8 hours per week? 
+Quote a P-value in your conclusion.
+
+.5(15)/2.25=7.5/2.25=3.33. z(3.33)=.9996. Yes, this is very likely.
+
+25. It is claimed that automobiles are driven on average more than 20,000 kilometers per year. To 
+test this claim, 100 randomly selected automobile owners are asked to keep a record of the km they 
+travel. Would you agree with this claim if the random sample showed an average of 23,500 km and a 
+standard deviation of 3900 km? Use a P-value in your conclusion.
+
+(3500)(10)/3900=350/39=8.974359. No, very unlikely.
+
+26. According to a dietary study, high sodium intake may be related to ulcers, stomach cancer, and
+migraine headaches. The human requirement for salt is only 220 mg per day, which is surpassed in
+most single servings of ready-to-eat cereals. If a random sample of 20 similar servings of a certain
+cereal has a mean sodium content of 244 milligrams and a sd of 24.5 milligrams, does this suggest at
+ the 0.05 level of significance that the average sodium content for a single serving of such cereal 
+ is greater than 220 milligrams? Assume the distribution of sodium contents to be normal.
+ 
+ (244-220)(4.472136)/24.5=4.380868. t(20,.05)=1.725
+ x=1.725(24.5/4.472136)+220 = 229.450182. Yes, this is greater.
+ 
+Hi All,
+
+Please attempt the following questions for HW 8. It will be due on 4/18.
+
+Page 365: 10.55, 10.56, 10.60
+
+55. A marketing expert for a pasta-making company believes that 40% of pasta lovers prefer lasagna.
+If 9 out of 20 pasta lovers choose lasagna over other pastas, what can be concluded about the 
+expert’s claim? Use a 0.05 level of significance.
+
+(.45-.40)/rad((.45*.55)/20)=.4494
+.45+1.725*sqrt((.45*.55)/20)=.6419
+.45-1.725*sqrt((.45*.55)/20)=.2581
+Using t(20,.05), we could say that there is a .45 chance of him being right 26 to 64 % of the time.
+
+56. Suppose that, in the past, 40% of all adults favored capital punishment. Do we have reason to
+believe that the proportion of adults favoring capital punishment has increased if, in a random 
+sample of 15 adults, 8 favor capital punishment? Use a 0.05 level of significance.
+
+(.53-.4)/sqrt((.53*.47)/15)=1.009
+.53+1.753*sqrt((.53*.47)/15)=.7560
+.53-1.753*sqrt((.53*.47)/15)=.3041
+Since t>1, we may say that the proportion certainly increased.
+
+60. At a certain college, it is estimated that at most 25% of the students ride bicycles to class. 
+Does this seem to be a valid estimate if, in a random sample of 90 college students, 28 are found to ride bicycles to class? Use a 0.05 level of significance.
+
+(.31-.25)/sqrt((.31*.69)/90)=1.23
+Since t>1, the proportion must be much greater than the null value.
+
+Page 369:  10.68, 10.69, 10.71
+
+68. Past experience indicates that the time required for high school seniors to complete a standard
+ized test is a normal random variable with a standard deviation of 6 minutes. Test the hypothesis 
+that σ = 6 against the alternative that σ < 6 if a random sample of the test times of 20 high school seniors has a standard deviation s = 4.51. Use a 0.05 level of significance.
+
+(n-1)(ss/aa)::X^2(s-1,%):  
+19(20.3401/36)=10.735
+::X(19,.05)=30.144
+.: <6 min very unlikely. 
+
+69. Aflotoxins produced by mold on peanut crops in Virginia must be monitored. A sample of 64 
+batches of peanuts reveals levels of 24.17 ppm, on average, with a variance of 4.25 ppm. Test the hypothesis that σ2 = 4.2 ppm against the alternative that σ2 = 4.2 ppm. Use a P-value in your conclusion.
+
+63(4.2/4.25)^2=61.526
+
+
+71. A soft-drink dispensing machine is said to be out of control if the variance of the contents 
+exceeds 1.15 deciliters. If a random sample of 25 drinks from this machine has a variance of 2.03 deciliters, does this indicate at the 0.05 level of significance that the machine is out of control? Assume that the contents are approximately normally distributed.
+
+Yes, since 2.03>1.15.
+
+Kind Regards,
+
+Professor Paolino
+
+Hi All,
+Please attempt the following questions for HW 9. It will be due on 4/25.
+ Page 357: 10.31, 10.32, 10.33, 10.34, 10.35   
+Page 359: 10.44, 10.45
+
+10.31 A manufacturer claims that the average tensile strength of thread A exceeds the average 
+tensile strength of thread B by at least 12 kilograms. To test this claim, 50 pieces of each type of thread were tested under similar conditions. Type A thread had an average tensile strength of 86.7 kilograms with a standard deviation of 6.28 kilograms, while type B thread had an average tensile strength of 77.8 kilograms with a standard deviation of 5.61 kilograms. Test the manufacturer’s claim using a 0.05 level of significance.
+
+ssp=[(n1-1)*s1^2 + (n2-1)s2^2]/(n1+n2-2)
+np=x1-x2-(u1-u2)/rad(ssp(1/n1 + 1/n2))
+49*39.4384+49*31.4721/98= 19.7192+15.73605=35.45525, radans=5.96
+86.7-77.8-(0-0)/5.96(.2)=8.9/1.192=7.46644
+
+10.32 Amstat News (December 2004) lists median salaries for associate professors of statistics at research institutions and at liberal arts and other institutions in the United States. Assume that a sample of 200 associate professors from research institutions has an average salary of $70,750 per year with a standard deviation of $6000. Assume also that a sample of 200 associate professors from other types of institutions has an average salary of $65,200 with a standard deviation of $5000. Test the hypothesis that the mean salary for associate professors in research institutions is $2000
+higher than for those in other institutions. Use a 0.01 level of significance.
+
+10.33 A study was conducted to see if increasing the substrate concentration has an appreciable effect on the velocity of a chemical reaction. With a substrate concentration of 1.5 moles per liter, the reaction was run 15 times, with an average velocity of 7.5 micro moles per 30 minutes and a standard deviation of 1.5. With a substrate concentration of 2.0 moles per liter, 12 runs were made, yielding an average velocity of 8.8 micromoles per 30 minutes and a sample standard deviation of 1.2. Is there any reason to believe that this increase in substrate concentration causes an increase in the mean velocity of the reaction of more than 0.5 micromole per 30 minutes? Use a 0.01 level of significance and assume the populations to be approximately normally distributed with equal variances.
+
+10.34 A study was made to determine if the subject matter in a physics course is better understood when a lab constitutes part of the course. Students were randomly selected to participate in either a 3-semesterhour course without labs or a 4-semester-hour course with labs. In the section with labs, 11 students made an average grade of 85 with a standard deviation of 4.7, and in the section without labs, 17 students made an average grade of 79 with a standard deviation of 6.1.
+Would you say that the laboratory course increases the average grade by as much as 8 points? Use a P-value in your conclusion and assume the populations to be approximately normally distributed with equal variances.
+
+10.35 To find out whether a new serum will arrest leukemia, 9 mice, all with an advanced stage of 
+the disease, are selected. Five mice receive the treatment and 4 do not. Survival times, in years, from the time the experiment commenced are as follows:
+Treatment 2.1 5.3 1.4 4.6 0.9
+No Treatment 1.9 0.5 2.8 3.1
+At the 0.05 level of significance, can the serum be said to be effective? Assume the two populations to be normally distributed with equal variances.
+
+10.44 In a study conducted by the Department of Human Nutrition and Foods at Virginia Tech, 
+the following data were recorded on sorbic acid residuals, in parts per million, in ham immediately after dipping in a sorbate solution and after 60 days of storage:
+Sorbic Acid Residuals in Ham
+Slice Before Storage After Storage
+1 224 116
+2 270  96
+3 400 239
+4 444 329
+5 500 437
+6 660 597
+7 1400689
+8 680 576
+Assuming the populations to be normally distributed, is there sufficient evidence, at the 0.05 level of significance, to say that the length of storage influences sorbic acid residual concentrations?
+
+10.45 A taxi company manager is trying to decide whether the use of radial tires instead of regular
+belted tires improves fuel economy. Twelve cars were equipped with radial tires and driven over a prescribed test course. Without changing drivers, the same cars were then equipped with regular belted tires and driven once again over the test course. The gasoline consump tion, in kilometers per liter, was recorded as follows:
+Kilometers per Liter
+Car Radial Tires Belted Tires
+1 4.2 4.1
+2 4.7 4.9
+3 6.6 6.2
+4 7.0 6.9
+5 6.7 6.8
+6 4.5 4.4
+7 5.7 5.7
+8 6.0 5.8
+9 7.4 6.9
+10 4.9 4.7
+11 6.1 6.0
+12 5.2 4.9
+Can we conclude that cars equipped with radial tires give better fuel economy than those equipped 
+with belted tires? Assume the populations to be normally distributed. Use a P-value in your conclusion.
+
+Hi Armani,
+
+Please resubmit HW 3 through and including HW 8, by writing out the solutions on paper.  Please answer the hypothesis testing questions using the method that I should you yesterday by:
+
+1) Stating the null and alternative hypothesis
+
+2) Obtaining the critical value(s) and rejection regions
+
+3) Calculating the testing statistic
+
+4) Stating the conclusion
+
+Regards,
+
+Professor Paolino
+
+Hi all,
+
+For the extra credit assignment please attempt the following questions. It will be due on 5/10.
+
+Page 382:  10.79, 10.80, 10.81, 10.86 
+
+10.79 A machine is supposed to mix peanuts, hazelnuts, cashews, and pecans in the ratio 5:2:2:1. A 
+can containing 500 of these mixed nuts was found to have 269 peanuts, 112 hazelnuts, 74 cashews, and
+45 pecans. At the 0.05 level of significance, test the hypothesis that the machine is mixing the 
+nuts in the ratio 5:2:2:1.
+
+  5,  2,  2,  1;10
+1/2,1/5,1/5,1/10;1
+250,100,100,50;500
+269,112,74, 45;500
+ 19, 12, 26, 5;62
+ Machine is off by an average of 15.5 nuts.
+cx=7.815: tx= ((19-15.5)^2 + (15.5-12)^2 + (26-15.5)^2 + (15.5-5)^2)/15.5
+= (3.5^2 + 3.5^2 + 10.5^2 + 10.5^2)/15.5 = (24.5+220.5)/15.5 = 245/15.5=15.806
+This is obviously not a normal distribution.
+ 
+ 10.80 The grades in a statistics course for a particular semester were as follows:
+ Test the hypothesis, at the 0.05 level of significance, that the distribution of grades is uniform.
+ Grade A, B, C, D, F
+ f     14,18,32,20,16;100
+ d     20,20,20,20,20;100
+ e      6, 2,12, 0, 4;24;5.08
+ cx=(4,.05)=9.488
+ tx=(.8464+9.4864+50.1264+25.8064+1.1664)/5.08=17.21
+ This data set is not normally distributed.
+ 
+10.81 A die is tossed 180 times with the following results: 
+Is this a balanced die? Use a 0.01 level of significance.
+
+t=01,02,03,04,05,06
+f=28,36,36,30,27,23;180
+d=30,30,30,30,30,30;180
+e=2, 6, 6, 0, 3, 7 ;24
+p=4, 4, 4, 4, 4, 4 ;24
+cx=(5,.01)=15.086
+tx=(4+4+4+16+1+9)/4=38/4=9.5.
+We can say that this is a balanced die since tx<cx.
+
+10.86 In an experiment to study the dependence of hypertension on smoking habits, the following data
+were taken on 180 individuals: Test the hypothesis that the presence or absence of hypertension is 
+independent of smoking habits. Use a 0.05 level of significance.
+
+21 36 30 87
+48 26 19 93
+69 62 49 180
+
+33.35 30 23.68 87
+35.65 32 25.32 93
+69    62 49    180
+
+4.57 1.2 1.7 0
+4.28 1.1 1.6 0
+   0   0   0 0
+   
+4.57+2.28+1.2+1.1+1.7+1.6=14.5
+
+cx=(2,.05)=5.991
+tx=        14.5
+We can assume from this data that the presence of hypertension is independent of smoking habits.
+
+Page 383:  10.88, 10.89
+
+10.88 A random sample of 200 married men, all retired, was classified according to education and 
+number of children: Test the hypothesis, at the 0.05 level of significance, that the size of a 
+family is independent of the level of education attained by the father.
+
+14 37 32 83
+19 42 17 78
+12 17 10 39
+45 96 59 200
+
+18.675 39.84 24.485 0
+17.55  37.44 23.01  0
+8.755  18.72 11.505 0
+    0      0      0 0
+	
+1.216  	.2   2.31 0
+.12   .555   1.57 0
+1.2   .16    .2   0
+  0     0     0   0
+  
+tx = E Not Zero =  7.531
+cx=(4,.05)=9.488
+
+# Children seems to depend on father education.
+
+Kind Regards,
+
+Professor Paolino
